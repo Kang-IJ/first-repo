@@ -20,7 +20,7 @@ $ npm install
 $ npm start
 ```
 
-## Formula
+## Formula by mathJax
 
 $$ y=x+1 $$
 
